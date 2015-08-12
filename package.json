@@ -25,9 +25,9 @@
 	},
 	"license": "MIT",
 	"dependencies": {
-		"tedious": "^1.11.2",
-		"generic-pool": "^2.2.0",
-		"promise": "^7.0.1"
+		"tedious": "1.11.2",
+		"generic-pool": "2.2.0",
+		"promise": "7.0.1"
 	},
 	"devDependencies": {
 		"coffee-script": "^1.9.3",
